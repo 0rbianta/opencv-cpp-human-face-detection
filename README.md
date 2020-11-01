@@ -2,7 +2,7 @@
 
 # Requirements
  - Linux</br>
- - OpenCV Librarys</br>
+ - OpenCV Libraries</br>
  - cmake</br>
 </br>
 <h1> How to compile and run?</h1>
