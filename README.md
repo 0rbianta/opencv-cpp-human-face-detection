@@ -1,4 +1,4 @@
-# OpenCV C++ human face detection from image file.
+# OpenCV C++ human face detection from image file
 
 # Requirements
  - Linux</br>
