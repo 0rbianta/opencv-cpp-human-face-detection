@@ -5,7 +5,7 @@
  - OpenCV Librarys</br>
  - cmake</br>
 </br>
-# How to compile and run?
+<h1> How to compile and run?</h1>
 </br>
 1)Download this project to your Linux and enter projects root directory.</br>
 2)Open a terminal and write <b>"cmake ."</b></br>
